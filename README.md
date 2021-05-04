@@ -7,7 +7,12 @@ A pyotrch implementation of classifier in our paper:
 ## Requirement
 
 Pytorch 1.5.0+
+
 torchvision 0.6.1+
+
+## Acknoledgement
+
+This work is fully supported by Northwestern Polytechnical University (NPU).
 
 ## Citation 
 
