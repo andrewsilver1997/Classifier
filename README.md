@@ -18,7 +18,7 @@ This work is fully supported by Northwestern Polytechnical University (NPU).
 
 If you find this code useful, please cite our paper.
 
-、、、
+```
 @article{yin2021classification,
   title={Classification of blade’s leading edge based on neural networks in adaptive machining of near-net-shaped blade},
   author={Yin, Zikai and Ren, Junxue and Liang, Yongshou},
@@ -29,4 +29,4 @@ If you find this code useful, please cite our paper.
   year={2021},
   publisher={Springer}
 }
-、、、
+```
